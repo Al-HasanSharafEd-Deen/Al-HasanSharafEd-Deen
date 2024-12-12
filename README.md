@@ -20,12 +20,12 @@ Sofware Engineer, My main interest is in [Embedded Systems, SW Testing, and Web 
 3. Embedded Systems Intern, EITESAL NGO, Jun2022 – Aug2022
 4. Embedded Hardware Engineer, ETC COMPANY, Nov2020 – Dec2021
 
-## my Technical Skills
+## My Technical Skills
 1. Programing Language: C, JAVA, OOP, C#.
-2. Database: ERD, Schema, Mapping, Ms SQL, Microsoft SQL Server
-3. Programing Platforms: Notepad++, Eclipse, Arduino IDE Atmel Studio, NetBeans, GitHub.
+2. Database: ERD, Schema, Mapping, MS SQL, Microsoft SQL Server
+3. Programming Platforms: Notepad++, Eclipse, Arduino IDE Atmel Studio, NetBeans, GitHub.
 4. Hardware Platforms: KiCad, Proteus.
-5. Hardware skills: Design PCBs, print and collect it by Manual ways, design Electronics circuit.
+5. Hardware skills: Design PCBs, print and assemble them manually, and design electronic circuits.
 6. Embedded Systems Concepts, AVR ATmega32 Interfacing, Electronics.
 
 <p align="center">
@@ -40,16 +40,4 @@ Sofware Engineer, My main interest is in [Embedded Systems, SW Testing, and Web 
 </a>
 </p>
 
-<h4 align="center"> Thanks for Visiting!:innocent:</h4>
-
-
-
-
-
-
-
-
-
-
-
-
+<h4 align="center"> Thanks for Visiting!</h4>
