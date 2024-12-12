@@ -4,17 +4,15 @@
     <a href="mailto:al.hasanameer704@gmail.com"><img img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="GMAIL" title="GMAIL"/></a> <img src="https://komarev.com/ghpvc/?username=Al-HasanSharafEd-Deen" alt="Al-HasanSharafEd-Deen" /> </p>
   </p>
  <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Undergraduate+Embedded+Software+Engineer&center=true&width=500&height=50"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Software+Engineer&center=true&width=500&height=50"></a>
 </p>
 
 # About Me:   
-Undergraduate Systems and Computers Engineering Student, My main interest is in Embedded Systems 
+Sofware Engineer, My main interest is in [Embedded Systems, SW Testing, and Web Backend Development,.NET] 
 
 ## my Education:
 
 1. Faculty of engineering, Systems and Computer Engineering department, Al-Azhar University.
-2. Embedded Software Trainee, IMT SCHOOL.
-3. Embedded Softwar Professional Nanodegeree, EgFWD-Udacity.
 
 ## And this is my Experience:
 1. Embedded Systems and Automotive trainee, SIMENS EDA, Aug2022 – Present.
@@ -23,11 +21,12 @@ Undergraduate Systems and Computers Engineering Student, My main interest is in 
 4. Embedded Hardware Engineer, ETC COMPANY, Nov2020 – Dec2021
 
 ## my Technical Skills
-1. Programing Language: C, JAVA, OOP.
-2. Programing Platforms: Notepad++, Eclipse, Arduino IDE Atmel Studio, NetBeans, GitHub.
-3. Hardware Platforms: KiCad, Proteus.
-4. Hardware skills: Design PCBs, print and collect it by Manual ways, design Electronics circuit.
-5. Embedded Systems Concepts, AVR ATmega32 Interfacing, Electronics.
+1. Programing Language: C, JAVA, OOP, C#.
+2. Database: ERD, Schema, Mapping, Ms SQL, Microsoft SQL Server
+3. Programing Platforms: Notepad++, Eclipse, Arduino IDE Atmel Studio, NetBeans, GitHub.
+4. Hardware Platforms: KiCad, Proteus.
+5. Hardware skills: Design PCBs, print and collect it by Manual ways, design Electronics circuit.
+6. Embedded Systems Concepts, AVR ATmega32 Interfacing, Electronics.
 
 <p align="center">
 <a href="https://github.com/Al-HasanSharafEd-Deen">
