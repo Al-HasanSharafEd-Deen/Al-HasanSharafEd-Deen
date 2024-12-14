@@ -8,14 +8,14 @@
 </p>
 
 # About Me:   
-Sofware Engineer, My main interest is in [Embedded Systems, SW Testing, and Web Backend Development,.NET] 
+Software Engineer, My main interest is in [Embedded Systems, SW Testing, and .NET Backend development] 
 
-## my Education:
+## My Education:
 
-1. Faculty of engineering, Systems and Computer Engineering department, Al-Azhar University.
+1. Faculty of Engineering, Systems and Computer Engineering department, Al-Azhar University.
 
 ## And this is my Experience:
-1. Embedded Systems and Automotive trainee, SIMENS EDA, Aug2022 – Present.
+1. Embedded Systems and Automotive trainee, SIMENS EDA, Aug 2022 – Present.
 2. Embedded Systems Intern, Si-Vision, AUG2022-Present.
 3. Embedded Systems Intern, EITESAL NGO, Jun2022 – Aug2022
 4. Embedded Hardware Engineer, ETC COMPANY, Nov2020 – Dec2021
