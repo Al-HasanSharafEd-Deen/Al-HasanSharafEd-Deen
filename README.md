@@ -15,8 +15,8 @@ Software Engineer, My main interest is in [Embedded Systems, SW Testing, and .NE
 1. Faculty of Engineering, Systems and Computer Engineering Department, Al-Azhar University(Class 2024).
 
 ## And this is my Experience:
-1. Embedded Systems and Automotive trainee, SIMENS EDA, Aug 2022 – Present.
-2. Embedded Systems Intern, Si-Vision, AUG2022-Present.
+1. Embedded Systems and Automotive trainee, SIMENS EDA, JUL 2023 – NOV 2023.
+2. Embedded Systems Intern, Si-Vision, SEP 2022.
 3. Embedded Systems Intern, EITESAL NGO, Jun2022 – Aug2022
 4. Embedded Hardware Engineer, ETC COMPANY, Nov2020 – Dec2021
 
