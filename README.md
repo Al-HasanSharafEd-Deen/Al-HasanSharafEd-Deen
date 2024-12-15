@@ -12,7 +12,7 @@ Software Engineer, My main interest is in [Embedded Systems, SW Testing, and .NE
 
 ## My Education:
 
-1. Faculty of Engineering, Systems and Computer Engineering department, Al-Azhar University.
+1. Faculty of Engineering, Systems and Computer Engineering Department, Al-Azhar University(Class 2024).
 
 ## And this is my Experience:
 1. Embedded Systems and Automotive trainee, SIMENS EDA, Aug 2022 – Present.
