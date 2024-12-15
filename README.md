@@ -1,4 +1,4 @@
-# Hey, I'm Al-Hasan Sharaf Ed-Deen. 🤝😎
+# Hey, I'm Al-Hasan Sharaf El-Deen. 🤝😎
 <p align="left">
     <a href="https://www.linkedin.com/in/alhasansharafeddeen/"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"/></a>
     <a href="mailto:al.hasanameer704@gmail.com"><img img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="GMAIL" title="GMAIL"/></a> <img src="https://komarev.com/ghpvc/?username=Al-HasanSharafEd-Deen" alt="Al-HasanSharafEd-Deen" /> </p>
