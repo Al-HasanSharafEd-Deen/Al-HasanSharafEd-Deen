@@ -4,7 +4,10 @@
     <a href="mailto:al.hasanameer704@gmail.com"><img img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="GMAIL" title="GMAIL"/></a> <img src="https://komarev.com/ghpvc/?username=Al-HasanSharafEd-Deen" alt="Al-HasanSharafEd-Deen" /> </p>
   </p>
  <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Software+Engineer+|+Embedded+Software+|+.NET+Backend+Developmen&center=true&width=500&height=50"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Software+Engineer+|+Embedded+Software+|+.NET+Backend+Development&center=true&width=900&height=50">
+</a>
+
 </p>
 
 # About Me:   
